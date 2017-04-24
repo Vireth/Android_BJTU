@@ -29,6 +29,16 @@ import java.util.List;
 import static com.example.vireth.doyourphonesuck.R.id.listView;
 
 public class MainActivity extends AppCompatActivity {
+
+    String[] team = new String[]{
+            "Vireth THACH SOK (16129114)", "Simon MENARD (16129161)"
+    };
+
+    int[] teamImage = new int[]{
+            R.drawable.vireth,
+            R.drawable.keysim
+    };
+
     String[] android = new String[]{
             "Information of Phone", "SDK", "Version", "Brand", "Manufacturer", "Model",
             "Information of Sims Card",
@@ -194,7 +204,7 @@ public class MainActivity extends AppCompatActivity {
                                     break;
                                 case 18:  newActivity = new Intent(getBaseContext(), BluetoothActivity.class);
                                     break;
-                                case 19:  newActivity = new Intent(getBaseContext(), FlashActivity.class);
+                                case 19:  newActivity = new Intent(getBaseContext(), MapsActivity.class);
                                     break;
                                 case 20:  newActivity = null; // Connection
                                     break;
@@ -219,7 +229,22 @@ public class MainActivity extends AppCompatActivity {
                     });
                     return true;
                 case R.id.navigation_notifications:
-                    androidListView.setAdapter(null);
+                    aList2 = new ArrayList<HashMap<String, String>>();
+
+                    for (int i = 0; i < team.length ; i++) {
+                        HashMap<String, String> hm = new HashMap<String, String>();
+                        hm.put("listview_title", team[i]);
+                        hm.put("listview_image", Integer.toString(teamImage[i]));
+                        hm.put("listview_discription", validation[0]);
+                        aList2.add(hm);
+                    }
+
+                    String[] from3 = {"listview_image", "listview_title", "listview_discription"};
+                    int[] to3 = {R.id.listview_image, R.id.listview_item_title, R.id.listview_item_short_description};
+
+                    SimpleAdapter simpleAdapter3 = new SimpleAdapter(getBaseContext(), aList2, R.layout.listview_activity, from3, to3);
+                    androidListView = (ListView) findViewById(listView);
+                    androidListView.setAdapter(simpleAdapter3);
                     return true;
             }
             return false;

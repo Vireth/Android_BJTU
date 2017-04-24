@@ -45,7 +45,7 @@ public class ProximityActivity extends AppCompatActivity {
         @Override
         public void onSensorChanged(SensorEvent event) {
             if(event.sensor.getType() == Sensor.TYPE_LIGHT){
-                if (event.values[0] >= 0 && event.values[0] <= 115) {
+                if (event.values[0] >= 0 && event.values[0] <= 30) {
                     ConstraintLayout foodLabel = (ConstraintLayout) findViewById(R.id.background);
                     foodLabel.setBackgroundColor(Color.BLACK);
 
