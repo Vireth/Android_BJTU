@@ -9,7 +9,7 @@ Description du projet here
 
 ## Examples
 
-#### Flash Activity
+#### Flash Activity [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src/main/java/com/example/vireth/doyourphonesuck/FlashActivity.java).
 
     app.get('/profile', 
       passport.authenticate('bearer', { session: false }),
@@ -17,7 +17,7 @@ Description du projet here
         res.json(req.user);
       });
 	  
-#### Camera Activity
+#### Camera Activity [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src/main/java/com/example/vireth/doyourphonesuck/CameraFront.java).
 
 	app.get('/profile', 
       passport.authenticate('bearer', { session: false }),
