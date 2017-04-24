@@ -11,22 +11,23 @@ Description du projet here
 
 #### Flash Activity
 
+    /.../
     mCameraManager = (CameraManager) getSystemService(Context.CAMERA_SERVICE);
     
-        try {
-       	    mCameraId = mCameraManager.getCameraIdList()[0];
-        } catch (CameraAccessException e) {
-            e.printStackTrace();
-        }
-
-        try {
-            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
-                mCameraManager.setTorchMode(mCameraId, true);
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+    try {
+	mCameraId = mCameraManager.getCameraIdList()[0];
+    } catch (CameraAccessException e) {
+	e.printStackTrace();
     }
+
+    try {
+	if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+	    mCameraManager.setTorchMode(mCameraId, true);
+	}
+    } catch (Exception e) {
+	e.printStackTrace();
+    }
+    /.../
 
 Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src/main/java/com/example/vireth/doyourphonesuck/CameraFront.java)
 
