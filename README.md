@@ -54,6 +54,8 @@ Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src
 
 ## Examples Api Test
 
+Description here !
+
 #### Flash Activity
 
     @Override
@@ -76,6 +78,10 @@ Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src
             alert.show();
             return;
     }
+
+## Examples Test Unitaire & UI
+
+List of functionnality !
 
 ## Team & Credits
 
