@@ -25,7 +25,7 @@ Description du projet here
         res.json(req.user);
       });
 	  
-## Credits
+## Team & Credits
 
 [![Keysim](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/keysim.png)](http://keysim.fr) | [![Vireth](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/vireth.png)](http://vireth.com)
 ---|---
