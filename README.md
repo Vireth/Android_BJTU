@@ -52,7 +52,7 @@ Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src
 	
 Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src/main/java/com/example/vireth/doyourphonesuck/CameraFront.java)
 
-## Examples Api Test
+## Examples Api System Test
 
 Description here !
 
@@ -81,7 +81,7 @@ Description here !
 
 ## Examples Test Unitaire & UI
 
-List of functionnality !
+## List of functionnality
 
 ## Team & Credits
 
