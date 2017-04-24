@@ -60,7 +60,8 @@ Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src
     protected void onCreate(Bundle savedInstanceState) {
         /.../
 
-        Boolean isFlashAvailable = getApplicationContext().getPackageManager().hasSystemFeature(PackageManager.FEATURE_CAMERA_FLASH);
+        Boolean isFlashAvailable = getApplicationContext().getPackageManager()
+		.hasSystemFeature(PackageManager.FEATURE_CAMERA_FLASH);
 
         if (!isFlashAvailable) {
             AlertDialog alert = new AlertDialog.Builder(this).create();
