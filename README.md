@@ -27,11 +27,10 @@ Description du projet here
 	  
 ## Credits
 
-[![Keysim](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/keysim.png)](https://github.com/keysim) | [![Vireth](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/vireth.png)](https://github.com/vireth20)
+[![Keysim](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/keysim.png)](http://keysim.fr) | [![Vireth](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/vireth.png)](http://vireth.com) | [![Tang](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/tang.png)](http://keysim.fr)
 ---|---|---
-[Simon Menard](https://github.com/keysim) | [Vireth Thach sok](https://github.com/vireth20)
+[Simon Menard](keysim.fr) | [Vireth Thach sok](vireth.com) | [Jean-Luc Tang](keysim.fr)
 
-	
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
