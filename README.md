@@ -52,7 +52,7 @@ Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src
 	
 Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src/main/java/com/example/vireth/doyourphonesuck/CameraFront.java)
 
-## Examples Test
+## Examples Api Test
 
 #### Flash Activity
 
