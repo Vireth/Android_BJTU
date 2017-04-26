@@ -30,17 +30,17 @@ Description du projet here
     mCameraManager = (CameraManager) getSystemService(Context.CAMERA_SERVICE);
     
     try {
-	mCameraId = mCameraManager.getCameraIdList()[0];
+        mCameraId = mCameraManager.getCameraIdList()[0];
     } catch (CameraAccessException e) {
-	e.printStackTrace();
+        e.printStackTrace();
     }
 
     try {
 	if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
 	    mCameraManager.setTorchMode(mCameraId, true);
-	}
+        }
     } catch (Exception e) {
-	e.printStackTrace();
+        e.printStackTrace();
     }
     
     /.../
