@@ -31,7 +31,7 @@ Description du projet here
     
     /.../
 
-Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src/main/java/com/example/vireth/doyourphonesuck/CameraFront.java)
+Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src/main/java/com/example/vireth/doyourphonesuck/FlashActivity.java)
 
 #### Camera Activity
 
@@ -79,6 +79,8 @@ Description here !
             return;
     }
 
+Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src/main/java/com/example/vireth/doyourphonesuck/FlashActivity.java)
+
 ## Examples Test Unitaire & UI
 
 #### Keyboard Activity
@@ -95,6 +97,8 @@ Description here !
 
     		messageTextView.setText(greeting);
 	}
+
+Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src/main/java/com/example/vireth/doyourphonesuck/Keyboard.java)
 
 ## List of functionnality
 
