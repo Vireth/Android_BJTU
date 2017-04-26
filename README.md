@@ -98,20 +98,20 @@ Description here !
 
 ## List of functionnality
 
-- [x] Information of Phone
-- [x] Information of Sim
-- [x] Camera Front/Back
-- [x] Flash
-- [x] Camera button
-- [x] Touch screen
-- [x] Display
-- [x] Keyboard
-- [x] Speaker Up/Down
-- [x] Call mode
-- [x] Microphone
-- [x] Vibration
-- [x] Volume button
-
+[x] Information of Phone | [x] WLAN
+---|---
+[x] Information of Sim | [x] Bluetooth
+[x] Camera Front/Back | [x] GPS
+[x] Flash | [x] Map
+[x] Camera button | [x] Charging 
+[x] Touch screen | [x] Plug USB
+[x] Display | [x] Light sensor
+[x] Keyboard | [x] Proximity
+[x] Speaker Up/Down | [x] Accelerometer
+[x] Call mode | [x] Gyroscope
+[x] Microphone | [x] Test Unit
+[x] Vibration | [x] SmartWatch
+[x] Volume button | [x] Speech to Text
 
 ## Team & Credits
 
