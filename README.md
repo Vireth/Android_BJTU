@@ -102,7 +102,7 @@ Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src
 
 ## List of functionnality
 
-List of functionnality of all projets:
+List of functionnality for all projets in BJTU
 
 #### KEYCAM [here](https://github.com/keysim/keycam)
 
