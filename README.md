@@ -98,6 +98,21 @@ Description here !
 
 ## List of functionnality
 
+- [x] Information of Phone
+- [x] Information of Sim
+- [x] Camera Front/Back
+- [x] Flash
+- [x] Camera button
+- [x] Touch screen
+- [x] Display
+- [x] Keyboard
+- [x] Speaker Up/Down
+- [x] Call mode
+- [x] Microphone
+- [x] Vibration
+- [x] Volume button
+
+
 ## Team & Credits
 
 [![Keysim](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/keysim.png)](http://keysim.fr) | [![Vireth](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/vireth.png)](http://vireth.com)
