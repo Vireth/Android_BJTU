@@ -20,7 +20,7 @@ Description du projet here
     │   ├── menu				# Template of menu
     │   ├── raw				# Asset music `stefano`.mp3
     │   └── values				# Styles and String
-    └── Gradle Scripts					# Gradle 3.3
+    └── Gradle Scripts			# Gradle 3.3
 
 ## Examples Activity
 
