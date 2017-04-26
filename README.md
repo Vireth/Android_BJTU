@@ -18,7 +18,7 @@ Description du projet here
     │   ├── drawable			# Asset Picture
     │   ├── layout				# Template of all Activity
     │   ├── menu				# Template of menu
-    │   ├── raw				# Asset music `stefano`.mp3
+    │   ├── raw				# Asset music
     │   └── values				# Styles and String
     └── Gradle Scripts			# Gradle 3.3
 
