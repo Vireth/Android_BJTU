@@ -11,7 +11,7 @@ Description du projet here
 
     .
     ├── manifests                       	# AndroidManifest.xml
-    ├── java                    		# Test files (alternatively `spec` or `tests`)
+    ├── java                    		# File Java
     │   ├── doesyourphonesuck		# Activity of all
     │   └── doesyourphonesuck (Test)	# Testing UI & Functionnality 
     ├── res					# File source for application
