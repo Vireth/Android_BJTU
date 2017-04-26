@@ -100,25 +100,25 @@ Description here !
 
 1 | 2 | 3
 ---|---|---
-[x] Information of Phone | [x] WLAN | Fragment
-[x] Information of Sim | [x] Bluetooth | Responsive
-[x] Camera Front/Back | [x] GPS | Graphics
-[x] Flash | [x] Map | Asynchronous
-[x] Camera button | [x] Charging | Exception notification
-[x] Touch screen | [x] Plug USB | Authentication
-[x] Display | [x] Light sensor | Storage
-[x] Keyboard | [x] Proximity | Database
-[x] Speaker Up/Down | [x] Accelerometer | Mediaplayer
-[x] Call mode | [x] Gyroscope | Sensor
-[x] Microphone | [x] Test Unit | Session
-[x] Vibration | [x] UI | Joystick
-[x] Volume button | [x] Speech to Text | Compatibility
+:white_check_mark: Information of Phone | :white_check_mark: WLAN | :white_check_mark: Fragment
+:white_check_mark: Information of Sim | :white_check_mark: Bluetooth | :white_check_mark: Responsive
+:white_check_mark: Camera Front/Back | :white_check_mark: GPS | :white_check_mark: Graphics
+:white_check_mark: Flash | :white_check_mark: Map | :white_check_mark: Asynchronous
+:white_check_mark: Camera button | :white_check_mark: Charging | :white_check_mark: Exception notification
+:white_check_mark: Touch screen | :white_check_mark: Plug USB | :white_check_mark: Authentication
+:white_check_mark: Display | :white_check_mark: Light sensor | :white_check_mark: Storage
+:white_check_mark: Keyboard | :white_check_mark: Proximity | :white_check_mark: Database
+:white_check_mark: Speaker Up/Down | :white_check_mark: Accelerometer | :white_check_mark: Mediaplayer
+:white_check_mark: Call mode | :white_check_mark: Gyroscope | :white_check_mark: Sensor
+:white_check_mark: Microphone | :white_check_mark: Test Unit | :white_check_mark: Session
+:white_check_mark: Vibration | :white_check_mark: UI | :white_check_mark: Joystick
+:white_check_mark: Volume button | :white_check_mark: Speech to Text | :white_check_mark: Compatibility
 
 ## Team & Credits
 
 [![Keysim](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/keysim.png)](http://keysim.fr) | [![Vireth](https://raw.githubusercontent.com/keysim/gearobot/master/doc/img/vireth.png)](http://vireth.com)
 ---|---
-[Simon Menard](keysim.fr) | [Vireth Thach sok](vireth.com)
+:chicken: [Simon Menard](keysim.fr) | :monkey: [Vireth Thach sok](vireth.com)
 
 ## License
 
