@@ -14,12 +14,13 @@ Description du projet here
     ├── java                    	# Test files (alternatively `spec` or `tests`)
     │   ├── doesyourphonesuck 		# Activity of all
     │   └── doesyourphonesuck (Test)	# Testing UI & Functionnality 
+    ├── res				# File source for application
+    │   ├── drawable			# Asset Picture
+    │   ├── layout			# Template of all Activity
+    │   ├── menu			# Template of menu
+    │   ├── raw				# Asset music `stefano`.mp3
+    │   └── values			# Styles and String
     └── res				# File source for application
-    	├── drawable			# Asset Picture
-	├── layout			# Template of all Activity
-	├── menu			# Template of menu
-	├── raw				# Asset music `stefano`.mp3
-	└── values			# Styles and String
 
 ## Examples Activity
 
