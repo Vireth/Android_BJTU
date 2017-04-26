@@ -81,6 +81,21 @@ Description here !
 
 ## Examples Test Unitaire & UI
 
+#### Keyboard Activity
+
+	public void KeyboardActivityTest(View view) {
+    		EditText KeyboardEditText =
+            		(EditText) findViewById(R.id.KeyboardEditText);
+
+    		String name = greetKeyboardText.getText().toString();
+    		String greeting = String.format("Sun Wukong, %s!", name);
+
+    		TextView messageTextView =
+            	(TextView) findViewById(R.id.messageTextView);
+
+    		messageTextView.setText(greeting);
+	}
+
 ## List of functionnality
 
 ## Team & Credits
