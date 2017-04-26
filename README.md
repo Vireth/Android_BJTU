@@ -1,7 +1,6 @@
 # Does Your Phone Work ?
-Projet Android for BJTU
 
-This projet is [...]
+Projet Android for Embedded Sofware Development based on Android at BJTU (Beijing Jiaotong University)
 
 ## Description
 
