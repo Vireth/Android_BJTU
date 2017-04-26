@@ -10,17 +10,17 @@ Description du projet here
 ## Structure
 
     .
-    ├── manifests			# AndroidManifest.xml
-    ├── java                    	# Test files (alternatively `spec` or `tests`)
-    │   ├── doesyourphonesuck 		# Activity of all
+    ├── manifests                       	# AndroidManifest.xml
+    ├── java                    		# Test files (alternatively `spec` or `tests`)
+    │   ├── doesyourphonesuck		# Activity of all
     │   └── doesyourphonesuck (Test)	# Testing UI & Functionnality 
-    ├── res				# File source for application
+    ├── res					# File source for application
     │   ├── drawable			# Asset Picture
-    │   ├── layout			# Template of all Activity
-    │   ├── menu			# Template of menu
+    │   ├── layout				# Template of all Activity
+    │   ├── menu				# Template of menu
     │   ├── raw				# Asset music `stefano`.mp3
-    │   └── values			# Styles and String
-    └── res				# File source for application
+    │   └── values				# Styles and String
+    └── Gradle Scripts					# Gradle 3.3
 
 ## Examples Activity
 
