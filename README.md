@@ -69,8 +69,6 @@ Full code [here](https://github.com/vireth20/Android_BJTU/blob/master/mobile/src
 
 ## Examples Api System Test
 
-Description here !
-
 #### Flash Activity
 
     @Override
