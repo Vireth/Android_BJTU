@@ -4,9 +4,24 @@ Projet Android for Embedded Software Development based on Android at BJTU (Beiji
 
 #### Motivation and ambition
 
-The project was born during a Android Embedded Software Development course at Beijing Jiaotong University in China between two students who wanted to create an Android app entirely based on functionality. I (Vireth) think to make an Android application since the first time I started to learn JAVA languages. In love with programming, I wanted to share it through an easy access application so everybody can join and try it. "Does my phone work's" ambition is to place programming in the middle of a funny, entertaining so everybody even beginners can enjoy programming and hopefully start learning programming languages afterward.
+The project was born during a Android Embedded Software Development course at Beijing Jiaotong University in China between two students who wanted to create an Android app entirely based on functionality. I (Vireth) think to make an Android application since the first time I started to learn JAVA languages. In love with programming, I wanted to share it through an easy access application so everybody can join and try it. "Does my phone work ?" ambition is to place programming in the middle of a funny, entertaining so everybody even beginners can enjoy programming and hopefully start learning programming languages afterward.
 
 ## Description
+
+"Does my phone work ?" is a application on Android for testing your Android device.
+
+The main story:
+
+Do you want to buy a phone from someone ? But You don't know if the phone can works perfectly !
+You can ask to the people to Download and Install "Does my phone work ?" and run all testing functionality.
+You can check if the device can  works perfectly !
+
+In this application you can run a lot of functionality of the device.
+The user need to test some functionalitys.
+
+Example: Bluetooth, the user need to turn on the bluetooth, search device and list !
+
+The application will check inside if the device can run the bluetooth and say to the user.
 
 ## Structure
 
