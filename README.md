@@ -2,9 +2,11 @@
 
 Projet Android for Embedded Software Development based on Android at BJTU (Beijing Jiaotong University)
 
-## Description
+#### Motivation and ambition
 
 The project was born during a Android Embedded Software Development course at Beijing Jiaotong University in China between two students who wanted to create an Android app entirely based on functionality. I (Vireth) think to make an Android application since the first time I started to learn JAVA languages. In love with programming, I wanted to share it through an easy access application so everybody can join and try it. "Does my phone work's" ambition is to place programming in the middle of a funny, entertaining so everybody even beginners can enjoy programming and hopefully start learning programming languages afterward.
+
+## Description
 
 ## Structure
 
