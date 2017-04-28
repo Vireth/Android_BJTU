@@ -21,7 +21,7 @@ The user need to test some functionalitys.
 
 Example: Bluetooth, the user need to turn on the bluetooth, search device and list !
 
-The application will check inside if the device can run the bluetooth and say to the user.
+The application will check inside if the device can run the bluetooth and say to the user if he can't run it.
 
 ## Structure
 
